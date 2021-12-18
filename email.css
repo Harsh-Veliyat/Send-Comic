@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    
+    padding: 34px 0px 34px 0px;
+    text-align: center;
+    background-color: rgb(153, 77, 224);
+}
+h1{
+    color: rgb(28, 236, 0);
+
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+table{
+    table-layout: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 5px 10px 5px;
+    
+}
+form{
+    padding-top: 20px;
+}
+hr{
+    border: 3px  rgb(0, 0, 0);      
+    
+    border-style: groove;
+}
+td{
+    padding: 0px 5px 0px 5px;
+}
+#email{
+    background-color: white;
+    color: red;
+    border:2px solid black;
+}
+
+.submit{
+    background-color: rgb(173, 164, 164);
+    color: yellow;
+    padding: 1px 2px 1px 2px;
+    font-weight: bold;
+}
